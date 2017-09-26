@@ -64,3 +64,15 @@ For vector images:
 https://www.vecteezy.com/
 
 http://www.freepik.com/
+
+
+
+**Where to Find Free-For-Commercial-Use Icons**
+
+These are some of my favourite resources for free (with attribution) icons:
+
+http://www.flaticon.com/
+
+https://material.io/icons/
+
+http://fontawesome.io/
