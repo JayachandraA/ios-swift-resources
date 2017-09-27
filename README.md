@@ -1,78 +1,40 @@
 # ios-swift-resources
 
-
 **Tools for Creating Mockups**
-
-Photoshop/Illustrator
-
-http://www.adobe.com/uk/products/catalog.html
-
-
-
-Sketch 3
-
-https://www.sketchapp.com/
-
-
-
-Marvel
-
-https://marvelapp.com/dashboard/
-
-
-
-Canva
-
-https://www.canva.com/
-
+1) Photoshop/Illustrator
+  - http://www.adobe.com/uk/products/catalog.html
+2) Sketch 3
+  - https://www.sketchapp.com/
+3) Marvel
+  - https://marvelapp.com/dashboard/
+4) Canva
+  - https://www.canva.com/
 
 **Tools and Resources for Creating Prototypes**
+1) Marvel App https://marvelapp.com/
+2) InVision App https://www.invisionapp.com/
+3) Mac Keynote App http://www.apple.com/uk/keynote/
+4) Principle http://principleformac.com/
 
+**Where to Find Free-For-Commercial-Use Image Assets**
 
-Marvel App
-
-https://marvelapp.com/
-
-
-InVision App
-
-https://www.invisionapp.com/
-
-
-
-Mac Keynote App
-
-http://www.apple.com/uk/keynote/
-
-
-
-Principle
-
-http://principleformac.com/
-
-
-
-**Where to Find Free-For-Commercial-Use Image Assets
-For HD photographic Images, these are my favourite websites:**
-
-http://www.resplashed.com/
-
-https://pixabay.com/
-
-For vector images:
-
-https://www.vecteezy.com/
-
-http://www.freepik.com/
-
-
+1) For HD photographic Images, these are my favourite websites:
+  - http://www.resplashed.com/
+  - https://pixabay.com/
+2) For vector images:
+  - https://www.vecteezy.com/
+  - http://www.freepik.com/
 
 **Where to Find Free-For-Commercial-Use Icons**
+* These are some of my favourite resources for free (with attribution) icons:
+  - http://www.flaticon.com/
+  - https://material.io/icons/
+  - http://fontawesome.io/
 
-These are some of my favourite resources for free (with attribution) icons:
+# Source code links
 
-http://www.flaticon.com/
-
-https://material.io/icons/
-
-http://fontawesome.io/
+* Swift
+  - Graphs or charts
+    - https://github.com/danielgindi/Charts
+    - https://github.com/i-schuetz/SwiftCharts
+    
