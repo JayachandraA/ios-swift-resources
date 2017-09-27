@@ -39,4 +39,5 @@
     - https://github.com/i-schuetz/SwiftCharts
     - https://github.com/i-schuetz/PieCharts
     - https://github.com/recruit-mtl/Graphs
+    - https://github.com/nhatminh12369/BarChart
     
