@@ -37,4 +37,6 @@
   - Graphs or charts
     - https://github.com/danielgindi/Charts
     - https://github.com/i-schuetz/SwiftCharts
+    - https://github.com/i-schuetz/PieCharts
+    - https://github.com/recruit-mtl/Graphs
     
